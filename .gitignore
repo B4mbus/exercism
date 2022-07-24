@@ -26,4 +26,7 @@ cabal.project.local~
 .HTF/
 .ghc.environment.*
 
+### Exercism ###
+.exercism
+
 # End of https://www.toptal.com/developers/gitignore/api/haskell
